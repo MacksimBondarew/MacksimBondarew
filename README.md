@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maksym</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on [Behemoth-Shop](https://github.com/MacksimBondarew/behemoth-shop)
-
 - 🌱 I’m currently learning **Next, Tailwind**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/maxim-bondarew/](https://www.linkedin.com/in/maxim-bondarew/)
