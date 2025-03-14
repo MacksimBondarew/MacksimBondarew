@@ -51,14 +51,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MacksimBondarew&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MacksimBondarew&theme=radical" width="48%" alt="GitHub Streak">
-</p>
-
----
-
 ## 🎯 **Projects**
 🔹 **[Tic-Tac-Toe Online Game](https://tik-tak-toe-macksimbondarews-projects.vercel.app)**  
 🛠 **Tech:** `Next.js`, `TypeScript`, `TailwindCSS`, `Prisma`, `PostgreSQL`, `RabbitMQ`, `SSE`  
