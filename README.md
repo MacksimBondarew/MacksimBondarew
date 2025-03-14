@@ -1,7 +1,3 @@
-Here's a **polished and eye-catching** version of your GitHub profile README. It makes your profile look more **professional, engaging, and visually appealing** while keeping it informative for recruiters. 🚀  
-
----
-
 # 👋 Hi, I'm Maksym!  
 💻 **Frontend Developer | UI/UX Enthusiast | Passionate about Web Technologies**  
 
