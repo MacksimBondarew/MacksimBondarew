@@ -52,10 +52,19 @@
 ---
 
 ## 🎯 **Projects**
+🔹 **[Pizza Delivery App](https://pizza-delivery-app-nu.vercel.app)**  
+🛠 **Tech:** `Next.js`, `Prisma`, `TailwindCSS`, `PostgreSQL`, `YooKassa`, `NextAuth`, `Zustand`  
+This app allows users to explore the pizza menu, place orders, filter by various criteria, and use a payment gateway for online orders.  
+The backend uses **Prisma ORM** to interact with **PostgreSQL** and the app is deployed on **Vercel**.  
+📂 **[GitHub Repository for Pizza Delivery App](https://github.com/MacksimBondarew/pizza-delivery-app)**
+
 🔹 **[Tic-Tac-Toe Online Game](https://tik-tak-toe-macksimbondarews-projects.vercel.app)**  
 🛠 **Tech:** `Next.js`, `TypeScript`, `TailwindCSS`, `Prisma`, `PostgreSQL`, `RabbitMQ`, `SSE`  
+A multiplayer **Tic-Tac-Toe** game that uses **Server-Sent Events** (SSE) for real-time gameplay.  
+Players can authenticate using **GitHub** and **Google**.  
+📂 **[GitHub Repository for Tic-Tac-Toe Game](https://github.com/MacksimBondarew/mini-game)**
 
-🔹 **[More Projects Coming Soon...]** 🚀  
+🔹 **[More Projects Coming Soon...]** 🚀
 
 ---
 
@@ -76,4 +85,4 @@
 
 ### 🚀 **"The best way to predict the future is to create it."** — Peter Drucker  
 
-💙 Thank you for visiting my profile! Let's build something amazing together. 🚀✨  
+💙 Thank you for visiting my profile! Let's build something amazing together. 🚀✨
