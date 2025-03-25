@@ -62,7 +62,7 @@ The backend uses **Prisma ORM** to interact with **PostgreSQL** and the app is d
 🛠 **Tech:** `Next.js`, `TypeScript`, `TailwindCSS`, `Prisma`, `PostgreSQL`, `RabbitMQ`, `SSE`  
 A multiplayer **Tic-Tac-Toe** game that uses **Server-Sent Events** (SSE) for real-time gameplay.  
 Players can authenticate using **GitHub** and **Google**.  
-📂 **[GitHub Repository for Tic-Tac-Toe Game](https://github.com/MacksimBondarew/mini-game)**
+📂 **[GitHub Repository for Tic-Tac-Toe Game](https://github.com/MacksimBondarew/tik-tak-toe)**
 
 🔹 **[More Projects Coming Soon...]** 🚀
 
