@@ -1,17 +1,20 @@
 # 👋 Hi, I'm Maksym!  
 💻 **Frontend Developer | UI/UX Enthusiast | Passionate about Web Technologies**  
 
-🔹 **Creating exceptional user experiences with Next.js & Tailwind**  
-🔹 **Building scalable and high-performance applications**  
-🔹 **Exploring cutting-edge web technologies and best practices**  
+🔹 **1+ year of hands-on experience in building modern, scalable interfaces with React, Next.js & Tailwind CSS**  
+🔹 **Focused on performance, reusability, and responsive design**  
+🔹 **Strong attention to clean code and consistent UI systems**  
 
 ---
 
 ## 🚀 **About Me**
-- 🔥 **Passionate Frontend Developer** crafting seamless and responsive UIs  
-- 🌱 **Currently learning** `Next.js`, `TailwindCSS`, and advanced frontend architectures  
-- ✍️ **Sharing knowledge** through my [LinkedIn Articles](https://www.linkedin.com/in/maxim-bondarew/)  
-- 📫 **Reach out to me:** **bondarewmacksim@gmail.com**  
+- 🔥 **Frontend Developer with real-world experience** in building production-ready interfaces  
+- ✅ Built **reusable UI components** and implemented a **unified design system** for better maintainability  
+- 🧠 Improved **frontend architecture** by setting up ESLint, Prettier, and modular folder structure  
+- ⚙️ Implemented **responsive design**, **lazy loading**, and **performance optimizations**  
+- 🌱 Constantly learning and evolving with modern tools: `Next.js`, `TypeScript`, `TailwindCSS`, and `Prisma`  
+- ✍️ Sharing tips on frontend and design on [LinkedIn](https://www.linkedin.com/in/maxim-bondarew/)  
+- 📫 **Contact me:** bondarewmacksim@gmail.com  
 - 📄 **My Resume:** [Click here to view](https://fex.net/uk/s/dccb95z)  
 - ⚡ **Fun Fact:** I believe **a clean UI is the key to a great UX!** 😎  
 
@@ -54,15 +57,13 @@
 ## 🎯 **Projects**
 🔹 **[Pizza Delivery App](https://pizza-delivery-app-nu.vercel.app)**  
 🛠 **Tech:** `Next.js`, `Prisma`, `TailwindCSS`, `PostgreSQL`, `YooKassa`, `NextAuth`, `Zustand`  
-This app allows users to explore the pizza menu, place orders, filter by various criteria, and use a payment gateway for online orders.  
-The backend uses **Prisma ORM** to interact with **PostgreSQL** and the app is deployed on **Vercel**.  
-📂 **[GitHub Repository for Pizza Delivery App](https://github.com/MacksimBondarew/pizza-delivery-app)**
+🔧 **Role:** Built the entire frontend architecture, integrated payment & authentication, designed UI system.  
+📂 **[GitHub Repository](https://github.com/MacksimBondarew/pizza-delivery-app)**
 
 🔹 **[Tic-Tac-Toe Online Game](https://tik-tak-toe-macksimbondarews-projects.vercel.app)**  
 🛠 **Tech:** `Next.js`, `TypeScript`, `TailwindCSS`, `Prisma`, `PostgreSQL`, `RabbitMQ`, `SSE`  
-A multiplayer **Tic-Tac-Toe** game that uses **Server-Sent Events** (SSE) for real-time gameplay.  
-Players can authenticate using **GitHub** and **Google**.  
-📂 **[GitHub Repository for Tic-Tac-Toe Game](https://github.com/MacksimBondarew/tik-tak-toe)**
+🎮 Multiplayer Tic-Tac-Toe using Server-Sent Events. Auth via Google & GitHub.  
+📂 **[GitHub Repository](https://github.com/MacksimBondarew/tik-tak-toe)**
 
 🔹 **[More Projects Coming Soon...]** 🚀
 
