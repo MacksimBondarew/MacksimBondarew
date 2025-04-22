@@ -68,7 +68,7 @@
 🔹 **[Fullstack Auth System](fullstack-auth-ly0esfka2-macksimbondarews-projects.vercel.app)**  
 🛠 **Tech:** `Next.js`, `NestJS`, `TypeScript`, `TailwindCSS`, `Prisma`, `PostgreSQL`, `Redis`, `OAuth`, `2FA`, `reCAPTCHA`  
 🔐 Production-ready authentication with email/password login, OAuth (Google/Yandex), 2FA, email verification, password reset & secure session handling.  
-📂 **[GitHub Repository](https://github.com/your-username/fullstack-auth)**
+📂 **[GitHub Repository](https://github.com/MacksimBondarew/fullstack-auth)**
 
 🔹 **[More Projects Coming Soon...]** 🚀
 
