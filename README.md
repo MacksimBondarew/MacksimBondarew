@@ -58,6 +58,7 @@
 🔹 **[AI Personal Tutor](https://ai-personal-tutor-1ecj.vercel.app)**  
 🛠 **Tech:** `Next.js`, `React`, `TypeScript`, `Supabase`, `OpenAI API`, `TailwindCSS`, `React Query`  
 🧠 AI-powered learning platform that transforms PDF documents into interactive study experiences.
+
 📂 **[GitHub Repository](https://github.com/MacksimBondarew/ai-personal-tutor)**
 
 🔹 **[Pizza Delivery App](https://pizza-delivery-app-nu.vercel.app)**  
